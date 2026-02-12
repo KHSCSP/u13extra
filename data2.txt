@@ -69,4 +69,4 @@ Robot_Watch_ New_humanoid_robot_can_do_laundry. 3100 True
 Budget_Travel_ Hostels_are_better_than_hotels. 190 False
 Python_Scripts_ Automate_the_boring_stuff_daily. 1500 True
 Dream_Big_ Your_only_limit_is_you. 770 True
-Luxury_Living_ Infinity_pools_are_the_dream False
+Luxury_Living_ Infinity_pools_are_the_dream 0 False
