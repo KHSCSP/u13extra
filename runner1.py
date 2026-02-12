@@ -9,22 +9,11 @@
 """
 
 
-# get all data into a dictionary
-all_data = []
-
-f = open("u13_SOLNS/u13extra_dataSOLN/data1.txt")
-for line in f:
-    temp = line.strip().split()
-    name = temp[0]
-    cost = temp[1]
-    quantity = temp[2]
-    all_data.append({"item name":name, "cost":cost, "quantity":quantity})
-f.close()
-
-print(all_data)
+# TODO get all data into a list of dictionaries
 
 
-# process data
+
+# TODO process data
 
 
 

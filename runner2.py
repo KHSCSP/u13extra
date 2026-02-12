@@ -12,7 +12,7 @@
 '''
 
 
-# TODO get all data into a dictionary
+# TODO get all data into a list of dictionaries
 
 # TODO process data
 
