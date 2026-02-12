@@ -13,6 +13,9 @@
 
 
 # TODO get all data into a list of dictionaries
+# one item example: 
+#   {"user name":str, "post":str, "likes":int, "verified":bool}
+
 
 # TODO process data
 

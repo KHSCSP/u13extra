@@ -10,6 +10,8 @@
 
 
 # TODO get all data into a list of dictionaries
+# one item example: 
+#   {"item name":str, "cost":float, "quantity":int}
 
 
 
