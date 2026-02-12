@@ -1,6 +1,6 @@
 """
     Total Valuation: Calculate the total value of the entire warehouse 
-    (Price $\times$ Stock for every item).
+    (Price $times$ Stock for every item).
 
     Restock Alert: Print the names of all items where stock is less than 5.
 
